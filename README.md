@@ -35,4 +35,8 @@ It prioritises data quality across six dimensions:
 - Privacy, consent, retention, and compliance controls
 - Cloud-based architecture (AWS & Snowflake)
 - Maturity model (current vs target state)
-  
+
+## Documents
+
+- Executive Summary (Word)
+- Data Quality Framework (Presentation)
