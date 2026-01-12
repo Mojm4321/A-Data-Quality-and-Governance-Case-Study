@@ -1,4 +1,3 @@
-README.md
 #  Enterprise Data Quality & Data Governance Framework - Case Study
 
 # Introduction
@@ -40,5 +39,3 @@ It prioritises data quality across six dimensions:
 
 - Data Quality Framework (Presentation)
 - Executive Summary (Word)
-
-images/README
