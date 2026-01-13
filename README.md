@@ -37,7 +37,7 @@ It prioritises data quality across six dimensions:
 
 ## Documents Attached
 
-- Data Quality Framework (Presentation)
+- Data Quality Framework (Powerpoint)
 - Executive Summary (Word)
 
 ## Inside the Framework
