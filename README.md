@@ -32,7 +32,7 @@ It prioritises data quality across six dimensions:
 - Data quality framework embedded across the data lifecycle (Data quality dimensions and thresholds)
 - Metadata management (business glossary, data dictionary, lineage)
 - Master Data Management (golden records)
-- Privacy, consent, retention, and compliance controls
+- Privacy, consent, retention, and compliance controls (CCPA)
 - Cloud-based architecture (AWS & Snowflake)
 - Data maturity model (current vs target state)
 
