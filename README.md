@@ -1,5 +1,5 @@
 #  Building Trusted Data: A Data Quality & Governance Case Study 
-## By Jolly Madamedon
+
 
 # Introduction
 
